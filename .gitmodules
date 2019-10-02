@@ -5,3 +5,7 @@
 	path = melsiddieg.github.io
 	url = git@github.com:melsiddieg/melsiddieg.github.io.git
 	branch = master
+[submodule "public/melsiddieg.github.io"]
+	path = public/melsiddieg.github.io
+	url = git@github.com:melsiddieg/melsiddieg.github.io.git
+	branch = master
