@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -18,34 +18,64 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+
 
 [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Data Analysis for Genomics"
+  url = "https://courses.edx.org/courses/HarvardX/PH525x/1T2014/course/"
+  certificate_url = ""
+  date_start = "2014-06-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Data Analysis for Genomics."
   
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Case Study: Variant Discovery and Genotyping"
+  url = "https://courses.edx.org/courses/HarvardX/PH525x/1T2014/course/"
+  certificate_url = ""
+  date_start = "2015-09-01"
+  date_end = ""
+  description = "Case Study: Variant Discovery and Genotyping"
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Statistics and R for the Life Sciences"
+  url = "https://courses.edx.org/courses/HarvardX/PH525x/1T2014/course/"
+  certificate_url = ""
+  date_start = "2016-06-01"
+  date_end = ""
+  description = "Statistics and R for the Life Sciences"
+  
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Introduction to Bioconductor"
+  url = "https://courses.edx.org/courses/HarvardX/PH525x/1T2014/course/"
+  certificate_url = ""
+  date_start = "2015-09-01"
+  date_end = ""
+  description = "Introduction to Bioconductor."
+  
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Case study: DNA methylation data analysis"
+  url = "https://courses.edx.org/courses/HarvardX/PH525x/1T2014/course/"
+  certificate_url = ""
+  date_start = "2016-06-01"
+  date_end = ""
+  description = "Case study: DNA methylation data analysis"
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Supervised Learning in R: Classification Course"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2018-06-01"
+  description = "Supervised Learning in R"
 
 +++
