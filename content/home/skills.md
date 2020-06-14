@@ -46,5 +46,20 @@ subtitle = ""
   icon_pack = "fab"
   name = "Docker"
 
-
+[[feature]]
+  icon = "database"
+  icon_pack = "fa"
+  name = "Apache Spark"
+  
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "Shiny"
+  
+[[feature]]
+  icon = "server"
+  icon_pack = "fa"
+  name = "HPC"
+  
+  
 +++
