@@ -16,4 +16,4 @@ header:
 
 
 
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/MOEA_CV_Oct_2019.pdf" %}}Download my CV{{% /staticref %}}
